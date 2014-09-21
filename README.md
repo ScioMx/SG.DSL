@@ -24,7 +24,7 @@ Establecemos el proyecto de pruebas como el proyecto de inicio:
 
 ### Paso 4: Ejecutar la prueba
 
-Una vez completado este paso podemos ejecutar la prueba por medio de ReSharper, CodeRush, TestDriven.NET u otro Plug-in para ejecutar pruebas, en caso de no contar con ninguno de estos, podemos ejecutar la aplicación y la prueba se ejecuta automáticamente:
+Una vez completado este paso podemos ejecutar la prueba por medio de ReSharper, CodeRush, TestDriven.NET u otro Plug-in para ejecutar pruebas, en caso de no contar con ninguno de estos, podemos correr la aplicación y la prueba se ejecuta automáticamente:
 
 <img src="http://i.imgur.com/7J6ZraK.png" alt="Paso 4" style="width:450;height:350">
 
